@@ -5,7 +5,7 @@ import CardActionArea from "@material-ui/core/CardActionArea"
 
 import CardMedia from "@material-ui/core/CardMedia"
 
-import gridDynamicsLogo from "../../public/static/images/grid-dynamics-logo.png"
+import gridDynamicsLogo from "../images/grid-dynamics-logo.png"
 
 const useStyles = makeStyles({
   root: {
